@@ -1,5 +1,5 @@
 # Program: Lista przechowująca zmienne całkowite
-
+Projekt zaliczenowy dla lekcji z C++
 ## Opis programu
 Program implementuje klasę reprezentującą listę przechowującą zmienne całkowite i obsługuje następujące operacje w zależności od wczytanego znaku:
 
